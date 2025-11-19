@@ -57,9 +57,6 @@ Este paquete (namespace `dgt.corrector`) contiene una solución simple en Java p
 
 Abre PowerShell y sitúate en la carpeta que contiene la carpeta `corrector` (si trabajas desde el directorio `examenes/dgt`):
 
-```powershell
-cd "c:\Users\Sergio\OneDrive\Documentos\DocumentacionFormacion\GradoSuperiorDAW\1º DAW - PROGRAMACION (2024 - 25)\examenes\dgt"
-
 # Compilar todas las clases
 javac -d out corrector/*.java
 
